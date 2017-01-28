@@ -1,0 +1,41 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-calendar": {
+            "PACKAGE_NAME": "com.ionicframework.calendar"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "com.ionicframework.calendar"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "com.ionicframework.calendar"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "com.ionicframework.calendar"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "com.ionicframework.calendar"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.ionicframework.calendar"
+        },
+        "ionic-plugin-keyboard": {
+            "PACKAGE_NAME": "com.ionicframework.calendar"
+        },
+        "phonegap-plugin-push": {
+            "SENDER_ID": "549474937100",
+            "PACKAGE_NAME": "com.ionicframework.calendar"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "com.ionicframework.calendar"
+        }
+    }
+}
